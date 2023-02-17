@@ -1,0 +1,32 @@
+.sty {
+	  height: 150px;
+	  width: 150px;
+	  object-fit: cover;
+	  object-position: center;
+	  
+  }
+  
+  .user-heading {
+    background: #fbc02d;
+    color: #fff;
+    border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px 4px 0 0;
+    padding: 30px;
+    text-align: center;
+
+}
+
+.b{
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+    padding: 0 15px;;
+    }
+	
+	.sty1 {
+	  height: 50px;
+	  width: 50px;
+	  object-fit: cover;
+	  object-position: center;
+	  
+  }
